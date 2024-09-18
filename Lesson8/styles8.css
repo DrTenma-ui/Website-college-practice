@@ -1,0 +1,37 @@
+input{
+    display: block;
+    margin: 4px;
+    font-family: arial;
+}
+
+.b{
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+
+button{
+    display: inline-block;
+}
+
+.goog{
+    height: 85px;
+    width: 300px;
+    object-fit: contain;
+    margin-left: 170px;
+    margin-bottom: 10px;
+}
+
+.google{
+    height: 30px;
+    width: 600px;
+    border-radius: 50px;
+    border-color: rgb(209, 206, 206);
+    border-style: solid;
+    font-family: roboto;
+    padding-left: 18px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.20);
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
